@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfParticipant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Participant>
+    <Disqualification>false</Disqualification>
+    <Result>10119</Result>
+    <Community>MISIS5</Community>
+    <Surname>Sorokin</Surname>
+  </Participant>
+  <Participant>
+    <Disqualification>true</Disqualification>
+    <Result>2001</Result>
+    <Community>MISIS2</Community>
+    <Surname>Petrov</Surname>
+  </Participant>
+  <Participant>
+    <Disqualification>false</Disqualification>
+    <Result>300</Result>
+    <Community>MISIS1</Community>
+    <Surname>Ivanov</Surname>
+  </Participant>
+  <Participant>
+    <Disqualification>false</Disqualification>
+    <Result>210</Result>
+    <Community>MISIS3</Community>
+    <Surname>Sidorov</Surname>
+  </Participant>
+  <Participant>
+    <Disqualification>true</Disqualification>
+    <Result>119</Result>
+    <Community>MISIS4</Community>
+    <Surname>Pupkin</Surname>
+  </Participant>
+</ArrayOfParticipant>

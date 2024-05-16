@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSportsman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sportsman xsi:type="SkierMan">
+    <Result>90</Result>
+    <Surname>Ushakov</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierMan">
+    <Result>27</Result>
+    <Surname>Petrov</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierWoman">
+    <Result>19</Result>
+    <Surname>Ushakova</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierMan">
+    <Result>17</Result>
+    <Surname>Sidorov</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierWoman">
+    <Result>15</Result>
+    <Surname>Petrova</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierWoman">
+    <Result>13</Result>
+    <Surname>Sidorova</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierMan">
+    <Result>12</Result>
+    <Surname>Ivanov</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierWoman">
+    <Result>10</Result>
+    <Surname>Ivanova</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierWoman">
+    <Result>9</Result>
+    <Surname>Rubini</Surname>
+  </Sportsman>
+  <Sportsman xsi:type="SkierMan">
+    <Result>1</Result>
+    <Surname>Soso</Surname>
+  </Sportsman>
+</ArrayOfSportsman>

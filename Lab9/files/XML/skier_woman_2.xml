@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSkierWoman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SkierWoman>
+    <Result>19</Result>
+    <Surname>Ushakova</Surname>
+  </SkierWoman>
+  <SkierWoman>
+    <Result>9</Result>
+    <Surname>Rubini</Surname>
+  </SkierWoman>
+</ArrayOfSkierWoman>

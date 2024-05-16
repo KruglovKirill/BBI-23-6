@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSkierMan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SkierMan>
+    <Result>90</Result>
+    <Surname>Ushakov</Surname>
+  </SkierMan>
+  <SkierMan>
+    <Result>27</Result>
+    <Surname>Petrov</Surname>
+  </SkierMan>
+  <SkierMan>
+    <Result>17</Result>
+    <Surname>Sidorov</Surname>
+  </SkierMan>
+  <SkierMan>
+    <Result>12</Result>
+    <Surname>Ivanov</Surname>
+  </SkierMan>
+  <SkierMan>
+    <Result>1</Result>
+    <Surname>Soso</Surname>
+  </SkierMan>
+</ArrayOfSkierMan>

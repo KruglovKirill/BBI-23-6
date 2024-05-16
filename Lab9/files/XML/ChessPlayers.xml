@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfChessPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ChessPlayer>
+    <Surname>Ronaldo</Surname>
+    <Id>6</Id>
+    <Points>17.5</Points>
+  </ChessPlayer>
+  <ChessPlayer>
+    <Surname>Sidorov</Surname>
+    <Id>4</Id>
+    <Points>16.5</Points>
+  </ChessPlayer>
+  <ChessPlayer>
+    <Surname>Ivanov</Surname>
+    <Id>2</Id>
+    <Points>15.5</Points>
+  </ChessPlayer>
+  <ChessPlayer>
+    <Surname>Petrov</Surname>
+    <Id>3</Id>
+    <Points>15</Points>
+  </ChessPlayer>
+  <ChessPlayer>
+    <Surname>Soso</Surname>
+    <Id>5</Id>
+    <Points>10</Points>
+  </ChessPlayer>
+</ArrayOfChessPlayer>
